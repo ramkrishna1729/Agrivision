@@ -8,7 +8,7 @@ Agrivision is an innovative smart agriculture system that integrates IoT (Intern
 2. **Real-time Data Upload**: Agrivision uploads real-time environmental data , including temperature, humidity, light intensity, and soil moisture, to the ThingSpeak IoT cloud. This data is also displayed on an LCD screen for easy monitoring.
 3. **Global Control via Virtual Switch and Real time notofication **: Using the Blynk IoT platform, Agrivision provides global control over the water pump and artificial light . Farmers can remotely toggle these devices on or off via virtual switches on their mobile devices and notifications through related to the data .
 4. **Machine Learning-based Plant Stress Prediction**: Agrivision employs machine learning models to predict plant stress levels based on the ideal environmental parameters. This allows farmers to take proactive measures to mitigate stress and optimize crop health.
-5. **CNN-based Plant Disease Detection**: Agrivision utilizes Convolutional Neural Networks (CNNs) for plant disease detection. By analyzing images of plant leaves, the system can identify and diagnose diseases early, enabling timely intervention and disease management.
+
 
 ## Installation
 To set up Agrivision on your system, follow these steps:
