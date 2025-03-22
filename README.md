@@ -2,10 +2,6 @@
 
 ## Introduction
 Agrivision is an innovative smart irrigation system that integrates IoT (Internet of Things) and AI (Artificial Intelligence) technologies to optimize agricultural practices. By leveraging real-time data monitoring and predictive analytics, Agrivision enhances crop growth and resource utilization, leading to improved yields and efficient water management.
-# Agrivision: IoT and AI-based Smart Irrigation
-
-## Introduction
-Agrivision is an innovative smart irrigation system that integrates IoT (Internet of Things) and AI (Artificial Intelligence) technologies to optimize agricultural practices. By leveraging real-time data monitoring and predictive analytics, Agrivision enhances crop growth and resource utilization, leading to improved yields and efficient water management.
 
 ## Key Features
 1. **Automatic Water Irrigation**: The system automatically irrigates crops based on soil moisture levels, ensuring optimal hydration and minimizing water wastage.
